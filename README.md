@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thyago Dantas</h1>
 
 <h3 align="center">
-Full Stack Software Engineer · Node.js · React · Java · AWS
+Full Stack Software Engineer · Node.js · React · Java · PHP · C# · Go
 </h3>
 
 <p align="center">
-Building scalable web applications, SaaS platforms and AI-powered systems.
+Building scalable web applications, SaaS platforms, backend systems and AI-powered solutions.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Building scalable web applications, SaaS platforms and AI-powered systems.
     <img src="https://img.shields.io/badge/OpenBot-AI%20Omnichannel%20Platform-ad0000?style=for-the-badge" alt="OpenBot">
   </a>
   <a href="https://github.com/thyagodantas">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -23,20 +23,24 @@ Building scalable web applications, SaaS platforms and AI-powered systems.
 
 I'm a **Full Stack Software Engineer** focused on building production-ready applications, backend systems and SaaS platforms.
 
-I work across the stack, from designing APIs and backend services to building modern web interfaces and cloud infrastructure.
+I work across the entire stack, from backend architecture and API design to modern web applications, databases, cloud infrastructure and third-party integrations.
 
-My main areas of expertise include:
+I have experience working with multiple programming languages and ecosystems, including **Node.js, TypeScript, Java, PHP, C#, Go and JavaScript**.
 
-- ⚙️ **Backend:** Node.js, TypeScript, Java
-- ⚛️ **Frontend:** React, Next.js
-- ☁️ **Cloud:** AWS
-- 🗄️ **Databases:** PostgreSQL, MySQL
-- 🐳 **Infrastructure:** Docker and Linux
-- 🔌 **APIs:** REST APIs, integrations and third-party services
-- 🏗️ **Architecture:** scalable systems, SaaS platforms and distributed services
-- 🤖 **AI:** AI-powered automation and conversational systems
+My work involves building systems that need to be reliable, scalable and maintainable in real-world production environments.
 
-I enjoy solving complex engineering problems, designing reliable systems and turning ideas into production software.
+### Areas I work with
+
+- ⚙️ Backend development and API design
+- 🌐 Full Stack web applications
+- 🏗️ SaaS and multi-tenant architectures
+- 🤖 AI-powered applications and automation
+- 💬 Omnichannel communication platforms
+- ☁️ Cloud infrastructure and deployment
+- 🗄️ Relational databases and data systems
+- 🔌 Third-party API integrations
+- ⚡ Real-time applications and WebSockets
+- 🐳 Containerized applications and Linux environments
 
 ---
 
@@ -44,32 +48,104 @@ I enjoy solving complex engineering problems, designing reliable systems and tur
 
 ### AI-Powered Omnichannel Platform
 
-[**OpenBot — openbotai.app**](https://openbotai.app)
+🌐 **[openbotai.app](https://openbotai.app)**
 
-I'm currently most active in the development of **OpenBot**, an omnichannel platform focused on customer service, sales automation and lead management.
+**OpenBot** is an omnichannel SaaS platform focused on **customer service, sales automation and lead management**.
 
-The platform combines **WhatsApp, Instagram, official APIs and AI-powered automation** into a unified system.
+It brings multiple communication channels, automation and AI-powered workflows together in a single platform.
 
-### Key capabilities
+I'm currently highly active in the development of OpenBot, working across backend systems, integrations, infrastructure and product functionality.
 
-- 💬 **WhatsApp automation and customer service**
-- 📱 **Instagram integrations**
-- 🔗 **Official WhatsApp APIs**
-- 🤖 **AI-powered conversations and automation**
-- 🎯 **Lead classification and qualification**
-- 📥 **Lead capture and management**
-- 🔄 **Automated workflows**
-- 📊 **Customer and conversation management**
-- 🔌 **API integrations**
-- 🏢 **Multi-tenant SaaS architecture**
+### Key features
 
-The goal is to build reliable infrastructure that allows businesses to **capture, qualify and manage leads automatically across multiple communication channels**.
+- 💬 WhatsApp customer service and automation
+- 📱 Instagram integrations
+- 🔗 Official WhatsApp APIs
+- 🤖 AI-powered conversations and automation
+- 🎯 Lead classification and qualification
+- 📥 Lead capture and management
+- 🔄 Automated workflows
+- 📊 Conversation and customer management
+- 🔌 API and webhook integrations
+- 🏢 Multi-tenant SaaS architecture
+- ⚡ Real-time communication systems
+
+### Engineering focus
+
+The project involves solving practical problems around:
+
+- API integrations
+- Messaging infrastructure
+- Event-driven workflows
+- Real-time communication
+- AI integrations
+- Lead processing
+- Multi-tenant architecture
+- Backend scalability
+- Database design
+- Production infrastructure
+
+**Technologies:** Node.js, TypeScript, React, MySQL, WebSockets, REST APIs, Docker and cloud infrastructure.
 
 <p align="center">
   <a href="https://openbotai.app">
-    <img src="https://img.shields.io/badge/Visit%20OpenBot-openbotai.app-ad0000?style=for-the-badge" alt="Visit OpenBot">
+    <img src="https://img.shields.io/badge/Explore%20OpenBot-openbotai.app-ad0000?style=for-the-badge" alt="Explore OpenBot">
   </a>
 </p>
+
+---
+
+## 💼 Selected Projects & Experience
+
+### 🟣 PHP
+
+I have experience developing production web projects using **PHP**, including business platforms and web applications.
+
+#### OpenCalendar
+
+🌐 **[opencalendar.com.br](https://opencalendar.com.br)**
+
+A web platform developed with PHP, focused on scheduling and calendar-related workflows.
+
+**Stack:** PHP · MySQL · JavaScript · Web Technologies
+
+#### StoreAI
+
+🌐 **[storeai.com.br](https://storeai.com.br)**
+
+A web project focused on e-commerce and AI-powered functionality.
+
+**Stack:** PHP · MySQL · JavaScript · Web Technologies
+
+---
+
+### 🔷 C# / .NET
+
+I have professional experience with **C# and .NET** and previously participated in the engineering team at:
+
+### Biblingo
+
+🌐 **[biblingo.com](https://biblingo.com/)**
+
+An online language-learning platform.
+
+I contributed as part of the development team, working with **C#/.NET and web application development**.
+
+**Stack:** C# · .NET · Web Applications
+
+---
+
+### 🟢 Go / Golang
+
+I also work with **Go (Golang)** for backend development and services where performance, concurrency and efficient resource usage are important.
+
+Areas of experience include:
+
+- Backend services
+- REST APIs
+- Concurrent processing
+- System integrations
+- Performance-oriented services
 
 ---
 
@@ -80,11 +156,14 @@ The goal is to build reliable infrastructure that allows businesses to **capture
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
-### Frontend & Web
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -96,12 +175,12 @@ The goal is to build reliable infrastructure that allows businesses to **capture
 ### Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
@@ -110,7 +189,7 @@ The goal is to build reliable infrastructure that allows businesses to **capture
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2">
 </p>
 
-### Data & Infrastructure
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -121,36 +200,70 @@ The goal is to build reliable infrastructure that allows businesses to **capture
 ### AI & Integrations
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations">
+  <img src="https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
   <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API">
-  <img src="https://img.shields.io/badge/Webhooks-5C2D91?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks">
+  <img src="https://img.shields.io/badge/Webhooks-5C2D91?style=for-the-badge" alt="Webhooks">
 </p>
 
 ---
 
-## 📌 What I Work On
+## 🧩 Engineering Focus
 
-- Building and maintaining **SaaS platforms**
-- Designing **REST APIs and backend services**
-- Developing **scalable web applications**
-- Integrating **third-party and official APIs**
-- Building **AI-powered automation**
-- Designing **multi-tenant architectures**
-- Cloud infrastructure and deployment
-- Performance, reliability and system architecture
+I'm particularly interested in building systems around:
+
+**Backend Engineering**
+- Scalable APIs
+- Distributed services
+- Real-time systems
+- Event-driven architectures
+- Performance optimization
+
+**SaaS**
+- Multi-tenant platforms
+- Subscription-based systems
+- Business automation
+- Customer management
+- Scalable product architecture
+
+**AI & Automation**
+- AI-powered workflows
+- Conversational systems
+- Lead qualification
+- Intelligent automation
+- API-based AI integrations
+
+**Cloud & Infrastructure**
+- AWS
+- Docker
+- Linux
+- Application deployment
+- Production infrastructure
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagodantas&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thyagodantas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagodantas&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-## 📫 Connect
+## 📂 Repositories
+
+Explore my projects and experiments on GitHub:
+
+<p align="center">
+  <a href="https://github.com/thyagodantas?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p>
   <a href="mailto:thyago.dantas2017@gmail.com">
@@ -168,9 +281,9 @@ The goal is to build reliable infrastructure that allows businesses to **capture
 
 ---
 
-### 🌎 Open to Remote Opportunities
+## 🌎 Open to Remote Opportunities
 
-I'm currently open to **international remote opportunities** where I can contribute to backend, full stack, SaaS and cloud engineering projects.
+I'm open to **international remote opportunities** where I can contribute to backend, full stack, SaaS, cloud and AI-powered projects.
 
 <p align="center">
   <strong>Building scalable systems. Solving real problems. Shipping software.</strong>
